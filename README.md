@@ -6,5 +6,3 @@ Please be aware the code is not very nicely written in some areas but it works a
 Hope you enjoy!
 
 Tip: There is lots of clues in keywords within the game, nearly everything can be interactable and can lead to extra clues... read the room descriptions carefully ;) Goodluck!
-
-Test new 25/10
